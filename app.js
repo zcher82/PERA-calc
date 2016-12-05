@@ -20,3 +20,7 @@ for (var i = 1; i <= 31; i++) {
     var interest = calcInterest(i, principle);
     console.log('Age: ' + age + '\n' + 'Balance: $' + balance + '\n' + 'Interest accrued from last year: $' + interest);
 }
+
+//testing get uncommit's
+
+// TEST 1
